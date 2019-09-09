@@ -36,6 +36,13 @@
             <artifactId>netty-all</artifactId>
         </dependency>
 
+        <!-- spring-boot-starter -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
+            <scope>test</scope>
+        </dependency>
+
         <!-- 接口文档 -->
         <dependency>
             <groupId>io.springfox</groupId>
